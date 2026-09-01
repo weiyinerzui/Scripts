@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.asr_work/
+.DS_Store

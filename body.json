@@ -1,0 +1,10 @@
+{
+    "model": "@cf/meta/llama-3-8b-instruct",
+    "messages": [
+        {
+            "role": "user",
+            "content": "用三句话解释什么是边缘计算"
+        }
+    ],
+    "max_tokens": 200
+}
